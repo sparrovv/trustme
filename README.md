@@ -11,7 +11,7 @@ Easy to create and deploy, but there is one drawback though:
 
 ![Not trusted](https://dl.dropboxusercontent.com/u/10911324/not_trusted.png)
 
-Browsers doesn't trust those certificates, cause they weren't signed by any known certificate authority.
+Browsers doesn't trust those certificates, cause they are not signed by any known certificate authority.
 
 Of course there is a solution to get rid off this nasty warning, and this is "almost" automated way to do this.
 
